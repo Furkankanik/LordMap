@@ -1,7 +1,7 @@
 import os
 
 def Lordmap():
-    os.system("figlet Lordmap Hacking")
+    os.system("figlet Lordmap ")
 
     print("""
     Lordmap Programına Hoş Geldiniz...
